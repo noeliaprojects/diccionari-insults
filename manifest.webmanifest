@@ -1,0 +1,11 @@
+{
+  "name": "Diccionari d'insults catalans",
+  "short_name": "Insults catalans",
+  "lang": "ca",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#B71C1C",
+  "icons": [{"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

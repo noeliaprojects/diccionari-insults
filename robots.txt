@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://noeliaprojects.github.io/diccionari-insults/sitemap.xml
