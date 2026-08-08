@@ -1,0 +1,1213 @@
+[
+  {
+    "slug": "abracafanals",
+    "nom": "Abraçafanals",
+    "definicio": "Persona aduladora que intenta agradar a tothom sense sinceritat.",
+    "similar": "adulador",
+    "frase": "Au va, abraçafanals! Has tornat a buscar les ulleres mentre les portes posades."
+  },
+  {
+    "slug": "abusananos",
+    "nom": "Abusananos",
+    "definicio": "Persona que s’aprofita dels més dèbils o vulnerables.",
+    "similar": "aprofitat",
+    "frase": "Escolta, abusananos, que la porta diu «estira» i tu fa cinc minuts que empenys."
+  },
+  {
+    "slug": "afaitapagesos",
+    "nom": "Afaitapagesos",
+    "definicio": "Persona que enganya o manipula la gent senzilla per treure'n profit.",
+    "similar": "estafador",
+    "frase": "Mira que n'ets, afaitapagesos: has posat el comandament a la nevera i ara busques la llet al sofà."
+  },
+  {
+    "slug": "adulador",
+    "nom": "Adulador",
+    "definicio": "Persona que lloa excessivament per obtenir favors.",
+    "similar": "llepaire",
+    "frase": "Però què fas, adulador! Si el mapa diu a la dreta, per què te'n vas cap a l'esquerra?"
+  },
+  {
+    "slug": "aixafamolles",
+    "nom": "Aixafamolles",
+    "definicio": "Qui s'entromet o molesta en situacions íntimes.",
+    "similar": "tafaner",
+    "frase": "Ei, aixafamolles! No cal que reiniciïs el mòbil cada vegada que t'equivoques de contrasenya."
+  },
+  {
+    "slug": "aixafarterossos",
+    "nom": "Aixafarterossos",
+    "definicio": "Persona molt maldestra o poc hàbil.",
+    "similar": "patós",
+    "frase": "Au, aixafarterossos, deixa de discutir amb el GPS: ell sap perfectament on som."
+  },
+  {
+    "slug": "alifac",
+    "nom": "Alifac",
+    "definicio": "Persona insignificant de poc valor.",
+    "similar": "nul",
+    "frase": "Mare meva, alifac! Has enviat el missatge al grup familiar una altra vegada."
+  },
+  {
+    "slug": "amanerat",
+    "nom": "Amanerat",
+    "definicio": "Persona amb maneres exageradament delicades o artificials.",
+    "similar": "monyes",
+    "frase": "Escolta'm, amanerat: el cafè no sortirà més ràpid perquè premis el botó quinze cops."
+  },
+  {
+    "slug": "andova",
+    "nom": "Andova",
+    "definicio": "Persona grollera o de mala educació.",
+    "similar": "bast",
+    "frase": "Per l'amor de Déu, andova! La clau era a la teva butxaca des del principi."
+  },
+  {
+    "slug": "aprofitat",
+    "nom": "Aprofitat",
+    "definicio": "Persona que s'aprofita dels altres sense donar res a canvi.",
+    "similar": "penques",
+    "frase": "Quin espectacle, aprofitat: has saludat un maniquí i encara li has demanat perdó."
+  },
+  {
+    "slug": "arreplegat",
+    "nom": "Arreplegat",
+    "definicio": "Persona sense rumb ni objectius.",
+    "similar": "perdut",
+    "frase": "Va, arreplegat, que el semàfor no es posarà verd perquè el miris amb mala cara."
+  },
+  {
+    "slug": "avorrit",
+    "nom": "Avorrit",
+    "definicio": "Persona que no desperta interès ni emocions.",
+    "similar": "sec",
+    "frase": "No fotem, avorrit! Has obert la calculadora per sumar dos i dos."
+  },
+  {
+    "slug": "babau",
+    "nom": "Babau",
+    "definicio": "Persona innocent i fàcil d'enganyar.",
+    "similar": "fava",
+    "frase": "Escolta, babau, si poses el despertador a les vuit de la nit no arribaràs gaire puntual demà."
+  },
+  {
+    "slug": "bagassa",
+    "nom": "Bagassa",
+    "definicio": "Dona que exerceix la prostitució, sovint usat com a insult ofensiu.",
+    "similar": "prostituta",
+    "frase": "Ai, bagassa! Has anat a buscar el mòbil amb la llanterna del mateix mòbil."
+  },
+  {
+    "slug": "baliga-balaga",
+    "nom": "Baliga-balaga",
+    "definicio": "Persona poc seriosa o que es comporta de forma irresponsable.",
+    "similar": "ximple",
+    "frase": "Au va, baliga-balaga: no pots perdre el cotxe si encara ets assegut a dins."
+  },
+  {
+    "slug": "banyut",
+    "nom": "Banyut",
+    "definicio": "Home a qui la parella li ha estat infidel, utilitzat com a motiu de burla.",
+    "similar": "cornut",
+    "frase": "Però mira que ets banyut! Has intentat ampliar una foto de paper amb dos dits."
+  },
+  {
+    "slug": "barbamec",
+    "nom": "Barbamec",
+    "definicio": "Jove que vol aparentar maduresa però encara és un noi.",
+    "similar": "immadur",
+    "frase": "Ei, barbamec, la pizza no necessita contrasenya per entrar al forn."
+  },
+  {
+    "slug": "barrut",
+    "nom": "Barrut",
+    "definicio": "Persona descarada i abusiva.",
+    "similar": "caradura",
+    "frase": "Mira, barrut: abans de trucar al tècnic, prova d'endollar-ho."
+  },
+  {
+    "slug": "becari",
+    "nom": "Becari",
+    "definicio": "Persona amb poc poder que fa la feina bruta.",
+    "similar": "pringat",
+    "frase": "Quina tela, becari! Has esperat l'ascensor davant de la porta del lavabo."
+  },
+  {
+    "slug": "beneit",
+    "nom": "Beneit",
+    "definicio": "Persona innocent o de poca intel·ligència.",
+    "similar": "babau",
+    "frase": "Au, beneit! El microones no és una caixa forta, pots deixar de provar combinacions."
+  },
+  {
+    "slug": "bleda",
+    "nom": "Bleda",
+    "definicio": "Persona massa emocional o poc espavilada.",
+    "similar": "toixa",
+    "frase": "Escolta, bleda, si plou no cal regar el paraigua."
+  },
+  {
+    "slug": "bleda-assolellada",
+    "nom": "Bleda assolellada",
+    "definicio": "Persona exageradament tova, emocional o poruga.",
+    "similar": "figaflor",
+    "frase": "Però què dius, bleda assolellada! El mode avió no farà que el mòbil voli."
+  },
+  {
+    "slug": "borinot",
+    "nom": "Borinot",
+    "definicio": "Persona pesada o que repeteix massa.",
+    "similar": "plom",
+    "frase": "Mira que n'ets, borinot: has girat el mapa perquè el carrer anés recte."
+  },
+  {
+    "slug": "bordegas",
+    "nom": "Bordegàs",
+    "definicio": "Persona de poc fiar, que no actua amb lleialtat.",
+    "similar": "traïdor",
+    "frase": "Va, bordegàs, deixa de bufar el wifi, que així no arribarà més lluny."
+  },
+  {
+    "slug": "botifler",
+    "nom": "Botifler",
+    "definicio": "Persona que col·labora amb els enemics del seu propi grup o terra.",
+    "similar": "traïdor",
+    "frase": "Au va, botifler! Has tornat a buscar les ulleres mentre les portes posades."
+  },
+  {
+    "slug": "bretol",
+    "nom": "Brètol",
+    "definicio": "Persona sense respecte, que actua amb violència o manca d’escrúpols.",
+    "similar": "vàndal",
+    "frase": "Escolta, brètol, que la porta diu «estira» i tu fa cinc minuts que empenys."
+  },
+  {
+    "slug": "brotol",
+    "nom": "Bròtol",
+    "definicio": "Persona que comet actes de vandalisme o molesta.",
+    "similar": "pinxo",
+    "frase": "Mira que n'ets, bròtol: has posat el comandament a la nevera i ara busques la llet al sofà."
+  },
+  {
+    "slug": "brut",
+    "nom": "Brut",
+    "definicio": "Persona amb poca higiene o deixada.",
+    "similar": "esparracat",
+    "frase": "Però què fas, brut! Si el mapa diu a la dreta, per què te'n vas cap a l'esquerra?"
+  },
+  {
+    "slug": "cagabandurries",
+    "nom": "Cagabandúrries",
+    "definicio": "Persona que s’excusa sempre per no donar la cara.",
+    "similar": "covard",
+    "frase": "Ei, cagabandúrries! No cal que reiniciïs el mòbil cada vegada que t'equivoques de contrasenya."
+  },
+  {
+    "slug": "cagamandurries",
+    "nom": "Cagamandúrries",
+    "definicio": "Persona que exagera els perills o problemes.",
+    "similar": "poruc",
+    "frase": "Au, cagamandúrries, deixa de discutir amb el GPS: ell sap perfectament on som."
+  },
+  {
+    "slug": "caganiu",
+    "nom": "Caganiu",
+    "definicio": "Persona molt baixa d'estatura o feble.",
+    "similar": "menut",
+    "frase": "Mare meva, caganiu! Has enviat el missatge al grup familiar una altra vegada."
+  },
+  {
+    "slug": "cagadubtes",
+    "nom": "Cagadubtes",
+    "definicio": "Persona molt indecisa, que no pren decisions fàcilment.",
+    "similar": "insegur",
+    "frase": "Escolta'm, cagadubtes: el cafè no sortirà més ràpid perquè premis el botó quinze cops."
+  },
+  {
+    "slug": "caganer",
+    "nom": "Caganer",
+    "definicio": "Persona covarda que s’espanta fàcilment.",
+    "similar": "poruc",
+    "frase": "Per l'amor de Déu, caganer! La clau era a la teva butxaca des del principi."
+  },
+  {
+    "slug": "calcasses",
+    "nom": "Calçasses",
+    "definicio": "Persona sense caràcter ni iniciativa.",
+    "similar": "fluix",
+    "frase": "Quin espectacle, calçasses: has saludat un maniquí i encara li has demanat perdó."
+  },
+  {
+    "slug": "camacurt",
+    "nom": "Camacurt",
+    "definicio": "Persona de cames curtes, sovint usat per ridiculitzar físicament.",
+    "similar": "baixet",
+    "frase": "Va, camacurt, que el semàfor no es posarà verd perquè el miris amb mala cara."
+  },
+  {
+    "slug": "cap-de-suro",
+    "nom": "Cap de suro",
+    "definicio": "Persona amb poques llums o poca intel·ligència.",
+    "similar": "curt",
+    "frase": "No fotem, cap de suro! Has obert la calculadora per sumar dos i dos."
+  },
+  {
+    "slug": "cap-de-trons",
+    "nom": "Cap de trons",
+    "definicio": "Persona esbojarrada, que actua sense seny.",
+    "similar": "eixelebrat",
+    "frase": "Escolta, cap de trons, si poses el despertador a les vuit de la nit no arribaràs gaire puntual demà."
+  },
+  {
+    "slug": "cap-quadrat",
+    "nom": "Cap quadrat",
+    "definicio": "Persona tossuda i de pensament rígid.",
+    "similar": "obtús",
+    "frase": "Ai, cap quadrat! Has anat a buscar el mòbil amb la llanterna del mateix mòbil."
+  },
+  {
+    "slug": "capsigrany",
+    "nom": "Capsigrany",
+    "definicio": "Persona ximple o sense seny.",
+    "similar": "beneit",
+    "frase": "Au va, capsigrany: no pots perdre el cotxe si encara ets assegut a dins."
+  },
+  {
+    "slug": "caradura",
+    "nom": "Caradura",
+    "definicio": "Persona que actua amb molta barra i sense vergonya.",
+    "similar": "barrut",
+    "frase": "Però mira que ets caradura! Has intentat ampliar una foto de paper amb dos dits."
+  },
+  {
+    "slug": "caragirada",
+    "nom": "Caragirada",
+    "definicio": "Persona hipòcrita o falsa.",
+    "similar": "fals",
+    "frase": "Ei, caragirada, la pizza no necessita contrasenya per entrar al forn."
+  },
+  {
+    "slug": "carallot",
+    "nom": "Carallot",
+    "definicio": "Persona encantada o aturada, que no reacciona amb rapidesa.",
+    "similar": "sòmines",
+    "frase": "Mira, carallot: abans de trucar al tècnic, prova d'endollar-ho."
+  },
+  {
+    "slug": "cargolat",
+    "nom": "Cargolat",
+    "definicio": "Persona molt complicada o rebuscada.",
+    "similar": "complex",
+    "frase": "Quina tela, cargolat! Has esperat l'ascensor davant de la porta del lavabo."
+  },
+  {
+    "slug": "cascamoines",
+    "nom": "Cascamoines",
+    "definicio": "Persona que només diu bajanades.",
+    "similar": "bocamoll",
+    "frase": "Au, cascamoines! El microones no és una caixa forta, pots deixar de provar combinacions."
+  },
+  {
+    "slug": "catacaldos",
+    "nom": "Catacaldos",
+    "definicio": "Persona que opina de tot sense saber-ne.",
+    "similar": "superficial",
+    "frase": "Escolta, catacaldos, si plou no cal regar el paraigua."
+  },
+  {
+    "slug": "complex",
+    "nom": "Complex",
+    "definicio": "Persona amb pensament complicat i no gens espontani.",
+    "similar": "cargolat",
+    "frase": "Però què dius, complex! El mode avió no farà que el mòbil voli."
+  },
+  {
+    "slug": "covard",
+    "nom": "Covard",
+    "definicio": "Persona amb por o que evita el risc.",
+    "similar": "poruc",
+    "frase": "Mira que n'ets, covard: has girat el mapa perquè el carrer anés recte."
+  },
+  {
+    "slug": "cul-d-olla",
+    "nom": "Cul d’olla",
+    "definicio": "Persona inútil, que no serveix per a res.",
+    "similar": "incapaç",
+    "frase": "Va, cul d’olla, deixa de bufar el wifi, que així no arribarà més lluny."
+  },
+  {
+    "slug": "curt",
+    "nom": "Curt",
+    "definicio": "Persona de poca intel·ligència o enteniment.",
+    "similar": "pec",
+    "frase": "Au va, curt! Has tornat a buscar les ulleres mentre les portes posades."
+  },
+  {
+    "slug": "curt-de-gambals",
+    "nom": "Curt de gambals",
+    "definicio": "Persona de poc enteniment o escassa intel·ligència.",
+    "similar": "curt",
+    "frase": "Escolta, curt de gambals, que la porta diu «estira» i tu fa cinc minuts que empenys."
+  },
+  {
+    "slug": "descuidat",
+    "nom": "Descuidat",
+    "definicio": "Persona que no té cura de la seva imatge o tasques.",
+    "similar": "gosflac",
+    "frase": "Mira que n'ets, descuidat: has posat el comandament a la nevera i ara busques la llet al sofà."
+  },
+  {
+    "slug": "desgraciat",
+    "nom": "Desgraciat",
+    "definicio": "Persona que sempre té mala sort o no val per res.",
+    "similar": "inútil",
+    "frase": "Però què fas, desgraciat! Si el mapa diu a la dreta, per què te'n vas cap a l'esquerra?"
+  },
+  {
+    "slug": "desequilibrat",
+    "nom": "Desequilibrat",
+    "definicio": "Persona mentalment inestable.",
+    "similar": "sonat",
+    "frase": "Ei, desequilibrat! No cal que reiniciïs el mòbil cada vegada que t'equivoques de contrasenya."
+  },
+  {
+    "slug": "dropo",
+    "nom": "Dropo",
+    "definicio": "Persona mandrosa i poc activa.",
+    "similar": "gandul",
+    "frase": "Au, dropo, deixa de discutir amb el GPS: ell sap perfectament on som."
+  },
+  {
+    "slug": "eixelebrat",
+    "nom": "Eixelebrat",
+    "definicio": "Persona molt impulsiva o sense seny.",
+    "similar": "irreflexiu",
+    "frase": "Mare meva, eixelebrat! Has enviat el missatge al grup familiar una altra vegada."
+  },
+  {
+    "slug": "emprenyador",
+    "nom": "Emprenyador",
+    "definicio": "Persona que molesta contínuament o fa nosa.",
+    "similar": "torracollons",
+    "frase": "Escolta'm, emprenyador: el cafè no sortirà més ràpid perquè premis el botó quinze cops."
+  },
+  {
+    "slug": "enze",
+    "nom": "Enze",
+    "definicio": "Persona de poca intel·ligència.",
+    "similar": "curt",
+    "frase": "Per l'amor de Déu, enze! La clau era a la teva butxaca des del principi."
+  },
+  {
+    "slug": "escanyolit",
+    "nom": "Escanyolit",
+    "definicio": "Molt prim o feble físicament.",
+    "similar": "feble",
+    "frase": "Quin espectacle, escanyolit: has saludat un maniquí i encara li has demanat perdó."
+  },
+  {
+    "slug": "escarransit",
+    "nom": "Escarransit",
+    "definicio": "D'aspecte malaltís o feble.",
+    "similar": "dèbil",
+    "frase": "Va, escarransit, que el semàfor no es posarà verd perquè el miris amb mala cara."
+  },
+  {
+    "slug": "esparracat",
+    "nom": "Esparracat",
+    "definicio": "Vestit de qualsevol manera, molt deixat.",
+    "similar": "brut",
+    "frase": "No fotem, esparracat! Has obert la calculadora per sumar dos i dos."
+  },
+  {
+    "slug": "espardenyeta",
+    "nom": "Espardenyeta",
+    "definicio": "Persona sense caràcter o tova.",
+    "similar": "apàtic",
+    "frase": "Escolta, espardenyeta, si poses el despertador a les vuit de la nit no arribaràs gaire puntual demà."
+  },
+  {
+    "slug": "esvalotat",
+    "nom": "Esvalotat",
+    "definicio": "Persona molt cridanera o que fa enrenou.",
+    "similar": "exaltat",
+    "frase": "Ai, esvalotat! Has anat a buscar el mòbil amb la llanterna del mateix mòbil."
+  },
+  {
+    "slug": "estaquirot",
+    "nom": "Estaquirot",
+    "definicio": "Persona inútil, que fa nosa i no serveix de res.",
+    "similar": "inútil",
+    "frase": "Au va, estaquirot: no pots perdre el cotxe si encara ets assegut a dins."
+  },
+  {
+    "slug": "fatxa",
+    "nom": "Fatxa",
+    "definicio": "Persona autoritària i poc tolerant.",
+    "similar": "prepotent",
+    "frase": "Però mira que ets fatxa! Has intentat ampliar una foto de paper amb dos dits."
+  },
+  {
+    "slug": "fava",
+    "nom": "Fava",
+    "definicio": "Persona molt lenta o curta d'enteniment.",
+    "similar": "lent",
+    "frase": "Ei, fava, la pizza no necessita contrasenya per entrar al forn."
+  },
+  {
+    "slug": "feble",
+    "nom": "Feble",
+    "definicio": "Persona que no té força física ni caràcter.",
+    "similar": "escanyolit",
+    "frase": "Mira, feble: abans de trucar al tècnic, prova d'endollar-ho."
+  },
+  {
+    "slug": "figaflor",
+    "nom": "Figaflor",
+    "definicio": "Molt delicat o que es queixa per tot.",
+    "similar": "queixós",
+    "frase": "Quina tela, figaflor! Has esperat l'ascensor davant de la porta del lavabo."
+  },
+  {
+    "slug": "fals",
+    "nom": "Fals",
+    "definicio": "Persona que no actua amb sinceritat.",
+    "similar": "caragirada",
+    "frase": "Au, fals! El microones no és una caixa forta, pots deixar de provar combinacions."
+  },
+  {
+    "slug": "flasca",
+    "nom": "Flasca",
+    "definicio": "Persona molt apàtica o sense vitalitat.",
+    "similar": "llepafils",
+    "frase": "Escolta, flasca, si plou no cal regar el paraigua."
+  },
+  {
+    "slug": "fluix",
+    "nom": "Fluix",
+    "definicio": "Persona sense força ni caràcter.",
+    "similar": "calçasses",
+    "frase": "Però què dius, fluix! El mode avió no farà que el mòbil voli."
+  },
+  {
+    "slug": "galifardeu",
+    "nom": "Galifardeu",
+    "definicio": "Persona traïdora, covarda i sense principis.",
+    "similar": "bordeGàs",
+    "frase": "Mira que n'ets, galifardeu: has girat el mapa perquè el carrer anés recte."
+  },
+  {
+    "slug": "gamarus",
+    "nom": "Gamarús",
+    "definicio": "Persona poc espavilada.",
+    "similar": "babau",
+    "frase": "Va, gamarús, deixa de bufar el wifi, que així no arribarà més lluny."
+  },
+  {
+    "slug": "gandaina",
+    "nom": "Gandaina",
+    "definicio": "Persona despreocupada i que fa el mínim esforç.",
+    "similar": "passota",
+    "frase": "Au va, gandaina! Has tornat a buscar les ulleres mentre les portes posades."
+  },
+  {
+    "slug": "gandul",
+    "nom": "Gandul",
+    "definicio": "Persona que no vol fer res.",
+    "similar": "dropo",
+    "frase": "Escolta, gandul, que la porta diu «estira» i tu fa cinc minuts que empenys."
+  },
+  {
+    "slug": "gosflac",
+    "nom": "Gosflac",
+    "definicio": "Persona deixada, bruta o mal vestida.",
+    "similar": "descuidat",
+    "frase": "Mira que n'ets, gosflac: has posat el comandament a la nevera i ara busques la llet al sofà."
+  },
+  {
+    "slug": "greixos",
+    "nom": "Greixós",
+    "definicio": "Persona bruta o amb mal aspecte físic.",
+    "similar": "llardós",
+    "frase": "Però què fas, greixós! Si el mapa diu a la dreta, per què te'n vas cap a l'esquerra?"
+  },
+  {
+    "slug": "guillat",
+    "nom": "Guillat",
+    "definicio": "Bojot o fora de si.",
+    "similar": "sonat",
+    "frase": "Ei, guillat! No cal que reiniciïs el mòbil cada vegada que t'equivoques de contrasenya."
+  },
+  {
+    "slug": "guru-ironic",
+    "nom": "Guru (irònic)",
+    "definicio": "Persona que presumeix de saber molt però no sap tant.",
+    "similar": "llumenera",
+    "frase": "Au, guru (irònic), deixa de discutir amb el GPS: ell sap perfectament on som."
+  },
+  {
+    "slug": "idiota",
+    "nom": "Idiota",
+    "definicio": "Persona amb comportament estúpid o ridícul.",
+    "similar": "imbècil",
+    "frase": "Mare meva, idiota! Has enviat el missatge al grup familiar una altra vegada."
+  },
+  {
+    "slug": "imbecil",
+    "nom": "Imbècil",
+    "definicio": "Persona molt estúpida o irritant.",
+    "similar": "idiota",
+    "frase": "Escolta'm, imbècil: el cafè no sortirà més ràpid perquè premis el botó quinze cops."
+  },
+  {
+    "slug": "immadur",
+    "nom": "Immadur",
+    "definicio": "Persona que es comporta com un nen o amb poca maduresa.",
+    "similar": "xitxarel·lo",
+    "frase": "Per l'amor de Déu, immadur! La clau era a la teva butxaca des del principi."
+  },
+  {
+    "slug": "incapc",
+    "nom": "Incapç",
+    "definicio": "Persona que no pot fer bé les coses.",
+    "similar": "inútil",
+    "frase": "Quin espectacle, incapç: has saludat un maniquí i encara li has demanat perdó."
+  },
+  {
+    "slug": "innocent",
+    "nom": "Innocent",
+    "definicio": "Persona que no entén la malícia dels altres.",
+    "similar": "pagafantes",
+    "frase": "Va, innocent, que el semàfor no es posarà verd perquè el miris amb mala cara."
+  },
+  {
+    "slug": "insistent",
+    "nom": "Insistent",
+    "definicio": "Persona molt pesada que repeteix massa.",
+    "similar": "torrapipes",
+    "frase": "No fotem, insistent! Has obert la calculadora per sumar dos i dos."
+  },
+  {
+    "slug": "irreflexiu",
+    "nom": "Irreflexiu",
+    "definicio": "Persona que actua sense pensar.",
+    "similar": "eixelebrat",
+    "frase": "Escolta, irreflexiu, si poses el despertador a les vuit de la nit no arribaràs gaire puntual demà."
+  },
+  {
+    "slug": "lent",
+    "nom": "Lent",
+    "definicio": "Persona que fa les coses molt a poc a poc.",
+    "similar": "pixatinters",
+    "frase": "Ai, lent! Has anat a buscar el mòbil amb la llanterna del mateix mòbil."
+  },
+  {
+    "slug": "llanut",
+    "nom": "Llanut",
+    "definicio": "Persona ignorant o molt poc intel·ligent.",
+    "similar": "tonto",
+    "frase": "Au va, llanut: no pots perdre el cotxe si encara ets assegut a dins."
+  },
+  {
+    "slug": "llepaculs",
+    "nom": "LlepaCuls",
+    "definicio": "Persona aduladora i interessada.",
+    "similar": "adulador",
+    "frase": "Però mira que ets llepaculs! Has intentat ampliar una foto de paper amb dos dits."
+  },
+  {
+    "slug": "llepafils",
+    "nom": "LlepaFils",
+    "definicio": "Persona molt maniàtica, especialment amb el menjar o hàbits.",
+    "similar": "primmirat",
+    "frase": "Ei, llepafils, la pizza no necessita contrasenya per entrar al forn."
+  },
+  {
+    "slug": "llepaire",
+    "nom": "Llepaire",
+    "definicio": "Persona que fa la pilota per interès.",
+    "similar": "adulador",
+    "frase": "Mira, llepaire: abans de trucar al tècnic, prova d'endollar-ho."
+  },
+  {
+    "slug": "llardos",
+    "nom": "Llardós",
+    "definicio": "Molt brut o deixat.",
+    "similar": "greixós",
+    "frase": "Quina tela, llardós! Has esperat l'ascensor davant de la porta del lavabo."
+  },
+  {
+    "slug": "llimac",
+    "nom": "Llimac",
+    "definicio": "Molt lent o empipador.",
+    "similar": "mandrós",
+    "frase": "Au, llimac! El microones no és una caixa forta, pots deixar de provar combinacions."
+  },
+  {
+    "slug": "llufa",
+    "nom": "Llufa",
+    "definicio": "Persona desagradable o amb mal humor.",
+    "similar": "refunfunyós",
+    "frase": "Escolta, llufa, si plou no cal regar el paraigua."
+  },
+  {
+    "slug": "llongro",
+    "nom": "Llongro",
+    "definicio": "Persona de poc enteniment, molt bleda.",
+    "similar": "beneit",
+    "frase": "Però què dius, llongro! El mode avió no farà que el mòbil voli."
+  },
+  {
+    "slug": "llumenera",
+    "nom": "Llumenera",
+    "definicio": "S'utilitza irònicament per dir que algú no en sap gaire.",
+    "similar": "guru (irònic)",
+    "frase": "Mira que n'ets, llumenera: has girat el mapa perquè el carrer anés recte."
+  },
+  {
+    "slug": "malparit",
+    "nom": "Malparit",
+    "definicio": "Persona considerada malnada, ofensiu i agressiu.",
+    "similar": "brètol",
+    "frase": "Va, malparit, deixa de bufar el wifi, que així no arribarà més lluny."
+  },
+  {
+    "slug": "mandra",
+    "nom": "Mandra",
+    "definicio": "Mandrós, poc actiu.",
+    "similar": "gandul",
+    "frase": "Au va, mandra! Has tornat a buscar les ulleres mentre les portes posades."
+  },
+  {
+    "slug": "matalasser",
+    "nom": "Matalasser",
+    "definicio": "Persona xerraire i avorrida.",
+    "similar": "parlador",
+    "frase": "Escolta, matalasser, que la porta diu «estira» i tu fa cinc minuts que empenys."
+  },
+  {
+    "slug": "melindros",
+    "nom": "Melindrós",
+    "definicio": "Persona massa delicada o exquisida.",
+    "similar": "figaflor",
+    "frase": "Mira que n'ets, melindrós: has posat el comandament a la nevera i ara busques la llet al sofà."
+  },
+  {
+    "slug": "menut",
+    "nom": "Menut",
+    "definicio": "Persona de baixa estatura o poca presència.",
+    "similar": "caganiu",
+    "frase": "Però què fas, menut! Si el mapa diu a la dreta, per què te'n vas cap a l'esquerra?"
+  },
+  {
+    "slug": "mitja-merda",
+    "nom": "Mitja merda",
+    "definicio": "Persona covarda, insignificant o amb poca personalitat.",
+    "similar": "poruc",
+    "frase": "Ei, mitja merda! No cal que reiniciïs el mòbil cada vegada que t'equivoques de contrasenya."
+  },
+  {
+    "slug": "mocos",
+    "nom": "Mocós",
+    "definicio": "Nen petit i maleducat.",
+    "similar": "repel·lent",
+    "frase": "Au, mocós, deixa de discutir amb el GPS: ell sap perfectament on som."
+  },
+  {
+    "slug": "monyes",
+    "nom": "Monyes",
+    "definicio": "Massa afectat, exageradament suau o tendre.",
+    "similar": "amanerat",
+    "frase": "Mare meva, monyes! Has enviat el missatge al grup familiar una altra vegada."
+  },
+  {
+    "slug": "nap-buf",
+    "nom": "Nap-buf",
+    "definicio": "Criatura petita per l’edat que té, sovint usada amb to burleta.",
+    "similar": "menut",
+    "frase": "Escolta'm, nap-buf: el cafè no sortirà més ràpid perquè premis el botó quinze cops."
+  },
+  {
+    "slug": "nyerro",
+    "nom": "Nyerro",
+    "definicio": "Persona de mal geni o perillosa.",
+    "similar": "violent",
+    "frase": "Per l'amor de Déu, nyerro! La clau era a la teva butxaca des del principi."
+  },
+  {
+    "slug": "nyebit",
+    "nom": "Nyèbit",
+    "definicio": "Persona que no té la menor distinció.",
+    "similar": "insuls",
+    "frase": "Quin espectacle, nyèbit: has saludat un maniquí i encara li has demanat perdó."
+  },
+  {
+    "slug": "obtus",
+    "nom": "Obtús",
+    "definicio": "Persona de pensament rígid o limitada mentalment.",
+    "similar": "cap quadrat",
+    "frase": "Va, obtús, que el semàfor no es posarà verd perquè el miris amb mala cara."
+  },
+  {
+    "slug": "pagafantes",
+    "nom": "Pagafantes",
+    "definicio": "Persona que fa coses per algú esperant amor a canvi.",
+    "similar": "innocent",
+    "frase": "No fotem, pagafantes! Has obert la calculadora per sumar dos i dos."
+  },
+  {
+    "slug": "pallus",
+    "nom": "Pallús",
+    "definicio": "Persona molt aturada, que no reacciona a temps.",
+    "similar": "lent",
+    "frase": "Escolta, pallús, si poses el despertador a les vuit de la nit no arribaràs gaire puntual demà."
+  },
+  {
+    "slug": "panoli",
+    "nom": "Panoli",
+    "definicio": "Molt ingenu o que sempre rep.",
+    "similar": "beneit",
+    "frase": "Ai, panoli! Has anat a buscar el mòbil amb la llanterna del mateix mòbil."
+  },
+  {
+    "slug": "parlador",
+    "nom": "Parlador",
+    "definicio": "Persona que parla massa, sovint sense interès.",
+    "similar": "matalasser",
+    "frase": "Au va, parlador: no pots perdre el cotxe si encara ets assegut a dins."
+  },
+  {
+    "slug": "parrus",
+    "nom": "Parrús",
+    "definicio": "Persona amb mal geni o molt maleducada.",
+    "similar": "bèstia",
+    "frase": "Però mira que ets parrús! Has intentat ampliar una foto de paper amb dos dits."
+  },
+  {
+    "slug": "pastanaga",
+    "nom": "Pastanaga",
+    "definicio": "Persona de poc seny o molt innocent.",
+    "similar": "babau",
+    "frase": "Ei, pastanaga, la pizza no necessita contrasenya per entrar al forn."
+  },
+  {
+    "slug": "patos",
+    "nom": "Patós",
+    "definicio": "Que ho fa tot malament, maldestre.",
+    "similar": "torpe",
+    "frase": "Mira, patós: abans de trucar al tècnic, prova d'endollar-ho."
+  },
+  {
+    "slug": "pec",
+    "nom": "Pec",
+    "definicio": "Tontet o de poc enteniment.",
+    "similar": "curt",
+    "frase": "Quina tela, pec! Has esperat l'ascensor davant de la porta del lavabo."
+  },
+  {
+    "slug": "pelacanyes",
+    "nom": "Pelacanyes",
+    "definicio": "Persona pobra o sense recursos, amb to despectiu.",
+    "similar": "desgraciat",
+    "frase": "Au, pelacanyes! El microones no és una caixa forta, pots deixar de provar combinacions."
+  },
+  {
+    "slug": "penques",
+    "nom": "Penques",
+    "definicio": "Aprofitat o cara dura.",
+    "similar": "aprofitat",
+    "frase": "Escolta, penques, si plou no cal regar el paraigua."
+  },
+  {
+    "slug": "perdut",
+    "nom": "Perdut",
+    "definicio": "Persona desorientada o sense propòsit.",
+    "similar": "arreplegat",
+    "frase": "Però què dius, perdut! El mode avió no farà que el mòbil voli."
+  },
+  {
+    "slug": "perla",
+    "nom": "Perla",
+    "definicio": "Persona conflictiva o problemàtica.",
+    "similar": "bèstia",
+    "frase": "Mira que n'ets, perla: has girat el mapa perquè el carrer anés recte."
+  },
+  {
+    "slug": "pinxo",
+    "nom": "Pinxo",
+    "definicio": "Persona xulesca que va de dolent.",
+    "similar": "bròtol",
+    "frase": "Va, pinxo, deixa de bufar el wifi, que així no arribarà més lluny."
+  },
+  {
+    "slug": "pixapins",
+    "nom": "Pixapins",
+    "definicio": "Persona urbanita que va al camp i no en sap res.",
+    "similar": "urbanita",
+    "frase": "Au va, pixapins! Has tornat a buscar les ulleres mentre les portes posades."
+  },
+  {
+    "slug": "pixatinters",
+    "nom": "Pixatinters",
+    "definicio": "Funcionari inútil o lent.",
+    "similar": "lent",
+    "frase": "Escolta, pixatinters, que la porta diu «estira» i tu fa cinc minuts que empenys."
+  },
+  {
+    "slug": "plom",
+    "nom": "Plom",
+    "definicio": "Persona molt avorrida o repetitiva.",
+    "similar": "borinot",
+    "frase": "Mira que n'ets, plom: has posat el comandament a la nevera i ara busques la llet al sofà."
+  },
+  {
+    "slug": "poca-solta",
+    "nom": "Poca-solta",
+    "definicio": "Sense sentit comú o serietat.",
+    "similar": "eixelebrat",
+    "frase": "Però què fas, poca-solta! Si el mapa diu a la dreta, per què te'n vas cap a l'esquerra?"
+  },
+  {
+    "slug": "poca-traca",
+    "nom": "Poca-traça",
+    "definicio": "Persona que no té traça, maldestre.",
+    "similar": "inútil",
+    "frase": "Ei, poca-traça! No cal que reiniciïs el mòbil cada vegada que t'equivoques de contrasenya."
+  },
+  {
+    "slug": "pollos",
+    "nom": "Pollós",
+    "definicio": "Que té polls, persona bruta.",
+    "similar": "descuidat",
+    "frase": "Au, pollós, deixa de discutir amb el GPS: ell sap perfectament on som."
+  },
+  {
+    "slug": "poruc",
+    "nom": "Poruc",
+    "definicio": "Té por de tot.",
+    "similar": "covard",
+    "frase": "Mare meva, poruc! Has enviat el missatge al grup familiar una altra vegada."
+  },
+  {
+    "slug": "potol",
+    "nom": "Pòtol",
+    "definicio": "Mandrós que no treballa.",
+    "similar": "dropo",
+    "frase": "Escolta'm, pòtol: el cafè no sortirà més ràpid perquè premis el botó quinze cops."
+  },
+  {
+    "slug": "prepotent",
+    "nom": "Prepotent",
+    "definicio": "Persona que es creu superior als altres.",
+    "similar": "fatxa",
+    "frase": "Per l'amor de Déu, prepotent! La clau era a la teva butxaca des del principi."
+  },
+  {
+    "slug": "pringat",
+    "nom": "Pringat",
+    "definicio": "Persona que fa les feines pesades sense reconeixement.",
+    "similar": "becari",
+    "frase": "Quin espectacle, pringat: has saludat un maniquí i encara li has demanat perdó."
+  },
+  {
+    "slug": "queixos",
+    "nom": "Queixós",
+    "definicio": "Persona que es queixa sovint per qualsevol cosa.",
+    "similar": "figaflor",
+    "frase": "Va, queixós, que el semàfor no es posarà verd perquè el miris amb mala cara."
+  },
+  {
+    "slug": "ranci",
+    "nom": "Ranci",
+    "definicio": "Antiquat o molt tancat de ment.",
+    "similar": "carca",
+    "frase": "No fotem, ranci! Has obert la calculadora per sumar dos i dos."
+  },
+  {
+    "slug": "rasquer",
+    "nom": "Rasquer",
+    "definicio": "Persona que no gasta ni un cèntim.",
+    "similar": "garrepa",
+    "frase": "Escolta, rasquer, si poses el despertador a les vuit de la nit no arribaràs gaire puntual demà."
+  },
+  {
+    "slug": "refunfunyos",
+    "nom": "Refunfunyós",
+    "definicio": "Persona que sempre es queixa o té mal humor.",
+    "similar": "llufa",
+    "frase": "Ai, refunfunyós! Has anat a buscar el mòbil amb la llanterna del mateix mòbil."
+  },
+  {
+    "slug": "repel-lent",
+    "nom": "Repel·lent",
+    "definicio": "Persona molesta o pedant, especialment si és petita.",
+    "similar": "mocós",
+    "frase": "Au va, repel·lent: no pots perdre el cotxe si encara ets assegut a dins."
+  },
+  {
+    "slug": "retardat",
+    "nom": "Retardat",
+    "definicio": "Persona que va sempre a darrere o entén més lentament.",
+    "similar": "zaguer",
+    "frase": "Però mira que ets retardat! Has intentat ampliar una foto de paper amb dos dits."
+  },
+  {
+    "slug": "ridicul",
+    "nom": "Ridícul",
+    "definicio": "Persona que fa el ridícul amb les seves maneres.",
+    "similar": "xaró",
+    "frase": "Ei, ridícul, la pizza no necessita contrasenya per entrar al forn."
+  },
+  {
+    "slug": "ruc",
+    "nom": "Ruc",
+    "definicio": "Tonto o molt poc espavilat.",
+    "similar": "ximple",
+    "frase": "Mira, ruc: abans de trucar al tècnic, prova d'endollar-ho."
+  },
+  {
+    "slug": "saltataulells",
+    "nom": "Saltataulells",
+    "definicio": "Trepa que puja sense mèrits.",
+    "similar": "penques",
+    "frase": "Quina tela, saltataulells! Has esperat l'ascensor davant de la porta del lavabo."
+  },
+  {
+    "slug": "sapastre",
+    "nom": "Sapastre",
+    "definicio": "Dit de la persona que fa la feina malament.",
+    "similar": "patós",
+    "frase": "Au, sapastre! El microones no és una caixa forta, pots deixar de provar combinacions."
+  },
+  {
+    "slug": "sec",
+    "nom": "Sec",
+    "definicio": "Sense gràcia, sense humor.",
+    "similar": "avorrit",
+    "frase": "Escolta, sec, si plou no cal regar el paraigua."
+  },
+  {
+    "slug": "simple",
+    "nom": "Simple",
+    "definicio": "Persona massa senzilla o mancada de malícia.",
+    "similar": "ingenu",
+    "frase": "Però què dius, simple! El mode avió no farà que el mòbil voli."
+  },
+  {
+    "slug": "sonat",
+    "nom": "Sonat",
+    "definicio": "Bojot que ha perdut el cap.",
+    "similar": "desequilibrat",
+    "frase": "Mira que n'ets, sonat: has girat el mapa perquè el carrer anés recte."
+  },
+  {
+    "slug": "somines",
+    "nom": "Sòmines",
+    "definicio": "Persona encantada, mancada d’agilitat mental.",
+    "similar": "carallot",
+    "frase": "Va, sòmines, deixa de bufar el wifi, que així no arribarà més lluny."
+  },
+  {
+    "slug": "sorneguer",
+    "nom": "Sorneguer",
+    "definicio": "Amb sarcasme i mala bava.",
+    "similar": "punxant",
+    "frase": "Au va, sorneguer! Has tornat a buscar les ulleres mentre les portes posades."
+  },
+  {
+    "slug": "superficial",
+    "nom": "Superficial",
+    "definicio": "Persona que opina sense coneixement profund.",
+    "similar": "catacaldos",
+    "frase": "Escolta, superficial, que la porta diu «estira» i tu fa cinc minuts que empenys."
+  },
+  {
+    "slug": "tafaner",
+    "nom": "Tafaner",
+    "definicio": "Persona que s’interessa massa pels assumptes dels altres.",
+    "similar": "aixafamolles",
+    "frase": "Mira que n'ets, tafaner: has posat el comandament a la nevera i ara busques la llet al sofà."
+  },
+  {
+    "slug": "tanoca",
+    "nom": "Tanoca",
+    "definicio": "Babau, curt.",
+    "similar": "curt",
+    "frase": "Però què fas, tanoca! Si el mapa diu a la dreta, per què te'n vas cap a l'esquerra?"
+  },
+  {
+    "slug": "talos",
+    "nom": "Talós",
+    "definicio": "D’enteniment obtús.",
+    "similar": "obtús",
+    "frase": "Ei, talós! No cal que reiniciïs el mòbil cada vegada que t'equivoques de contrasenya."
+  },
+  {
+    "slug": "taral-lirot",
+    "nom": "Taral·lirot",
+    "definicio": "Persona poc seriosa.",
+    "similar": "ximple",
+    "frase": "Au, taral·lirot, deixa de discutir amb el GPS: ell sap perfectament on som."
+  },
+  {
+    "slug": "tino",
+    "nom": "Tino",
+    "definicio": "Persona que no encerta mai o no té gràcia.",
+    "similar": "maldestre",
+    "frase": "Mare meva, tino! Has enviat el missatge al grup familiar una altra vegada."
+  },
+  {
+    "slug": "titel-la",
+    "nom": "Titel·la",
+    "definicio": "Que es deixa manipular.",
+    "similar": "fluix",
+    "frase": "Escolta'm, titel·la: el cafè no sortirà més ràpid perquè premis el botó quinze cops."
+  },
+  {
+    "slug": "tocacampanes",
+    "nom": "Tocacampanes",
+    "definicio": "Persona que molesta o distreu.",
+    "similar": "emprenyador",
+    "frase": "Per l'amor de Déu, tocacampanes! La clau era a la teva butxaca des del principi."
+  },
+  {
+    "slug": "tonto",
+    "nom": "Tonto",
+    "definicio": "Persona de poca intel·ligència.",
+    "similar": "tòtil",
+    "frase": "Quin espectacle, tonto: has saludat un maniquí i encara li has demanat perdó."
+  },
+  {
+    "slug": "torpe",
+    "nom": "Torpe",
+    "definicio": "Persona amb dificultats per fer moviments hàbils.",
+    "similar": "patós",
+    "frase": "Va, torpe, que el semàfor no es posarà verd perquè el miris amb mala cara."
+  },
+  {
+    "slug": "torrapipes",
+    "nom": "Torrapipes",
+    "definicio": "Persona molt pesada o repetitiva.",
+    "similar": "insistent",
+    "frase": "No fotem, torrapipes! Has obert la calculadora per sumar dos i dos."
+  },
+  {
+    "slug": "torracollons",
+    "nom": "Torracollons",
+    "definicio": "Molt pesat o molest.",
+    "similar": "emprenyador",
+    "frase": "Escolta, torracollons, si poses el despertador a les vuit de la nit no arribaràs gaire puntual demà."
+  },
+  {
+    "slug": "torrat",
+    "nom": "Torrat",
+    "definicio": "Que ha begut o ha perdut el cap.",
+    "similar": "begut",
+    "frase": "Ai, torrat! Has anat a buscar el mòbil amb la llanterna del mateix mòbil."
+  },
+  {
+    "slug": "totill",
+    "nom": "Tòtill",
+    "definicio": "Persona encantada o amb poques llums.",
+    "similar": "tonto",
+    "frase": "Au va, tòtill: no pots perdre el cotxe si encara ets assegut a dins."
+  },
+  {
+    "slug": "traidor",
+    "nom": "Traïdor",
+    "definicio": "Que traeix la confiança o el seu grup.",
+    "similar": "botifler",
+    "frase": "Però mira que ets traïdor! Has intentat ampliar una foto de paper amb dos dits."
+  },
+  {
+    "slug": "trinxeraire",
+    "nom": "Trinxeraire",
+    "definicio": "Persona pobra, sense rumb ni ocupació estable.",
+    "similar": "arreplegat",
+    "frase": "Ei, trinxeraire, la pizza no necessita contrasenya per entrar al forn."
+  },
+  {
+    "slug": "tronat",
+    "nom": "Tronat",
+    "definicio": "Desfassat o ridícul.",
+    "similar": "passat",
+    "frase": "Mira, tronat: abans de trucar al tècnic, prova d'endollar-ho."
+  },
+  {
+    "slug": "tros-d-ase",
+    "nom": "Tros d’ase",
+    "definicio": "Molt ruc o tossut.",
+    "similar": "ruc",
+    "frase": "Quina tela, tros d’ase! Has esperat l'ascensor davant de la porta del lavabo."
+  },
+  {
+    "slug": "tros-de-pa",
+    "nom": "Tros de pa",
+    "definicio": "Persona bona però massa bona.",
+    "similar": "innocent",
+    "frase": "Au, tros de pa! El microones no és una caixa forta, pots deixar de provar combinacions."
+  },
+  {
+    "slug": "tros-de-quoniam",
+    "nom": "Tros de quòniam",
+    "definicio": "Persona molt obtusa o poc espavilada.",
+    "similar": "curt",
+    "frase": "Escolta, tros de quòniam, si plou no cal regar el paraigua."
+  },
+  {
+    "slug": "tros-de-suro",
+    "nom": "Tros de suro",
+    "definicio": "Molt curt o poc intel·ligent.",
+    "similar": "beneit",
+    "frase": "Però què dius, tros de suro! El mode avió no farà que el mòbil voli."
+  },
+  {
+    "slug": "ulls-de-poll",
+    "nom": "Ulls de poll",
+    "definicio": "Molt primmirat o delicat.",
+    "similar": "figaflor",
+    "frase": "Mira que n'ets, ulls de poll: has girat el mapa perquè el carrer anés recte."
+  },
+  {
+    "slug": "urbanita",
+    "nom": "Urbanita",
+    "definicio": "Persona de ciutat que no entén la vida rural.",
+    "similar": "pixapins",
+    "frase": "Va, urbanita, deixa de bufar el wifi, que així no arribarà més lluny."
+  },
+  {
+    "slug": "violent",
+    "nom": "Violent",
+    "definicio": "Persona agressiva o amb comportament perillós.",
+    "similar": "nyerro",
+    "frase": "Au va, violent! Has tornat a buscar les ulleres mentre les portes posades."
+  },
+  {
+    "slug": "xaro",
+    "nom": "Xaró",
+    "definicio": "Que vol ser refinat però fa riure.",
+    "similar": "ridícul",
+    "frase": "Escolta, xaró, que la porta diu «estira» i tu fa cinc minuts que empenys."
+  },
+  {
+    "slug": "ximple",
+    "nom": "Ximple",
+    "definicio": "Persona poc espavilada o de comportament absurd.",
+    "similar": "ruc",
+    "frase": "Mira que n'ets, ximple: has posat el comandament a la nevera i ara busques la llet al sofà."
+  },
+  {
+    "slug": "xitxarel-lo",
+    "nom": "Xitxarel·lo",
+    "definicio": "Jove immadur o cridaner.",
+    "similar": "immadur",
+    "frase": "Però què fas, xitxarel·lo! Si el mapa diu a la dreta, per què te'n vas cap a l'esquerra?"
+  },
+  {
+    "slug": "zaguer",
+    "nom": "Zaguer",
+    "definicio": "Lent que va al final de tot.",
+    "similar": "retardat",
+    "frase": "Ei, zaguer! No cal que reiniciïs el mòbil cada vegada que t'equivoques de contrasenya."
+  }
+]
